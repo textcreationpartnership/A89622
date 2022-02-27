@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Thomas Fairfaxes taking of Dennis Castle, and Felford Haven; and twenty six peeces of ordnance taken in a Dunkerke ship that came to relieve Pendennis, all the men taken prisoners, and all their ammunition and provisions in the ship, and fifty men put in her for the service of the Parliament. With the Generalls summons sent into Pendennis Castle, and the Governors answer. And the proceedings in blocking up of Michaells Mount, where Marques Hamilton is prisoner. Eighty come in to the Parliament from thence; with the last passages of Sir Thomas Fairfaxes victorious proceedings in Cornewell. This being a true copie and examined, is printed and published according to order of Parliament.</title>
+            <author>T. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89622</idno>
+            <idno type="STC">Wing M85</idno>
+            <idno type="STC">Thomason E329_16</idno>
+            <idno type="STC">ESTC R200704</idno>
+            <idno type="EEBO-CITATION">99861377</idno>
+            <idno type="PROQUEST">99861377</idno>
+            <idno type="VID">159617</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89622)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159617)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E329[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Thomas Fairfaxes taking of Dennis Castle, and Felford Haven; and twenty six peeces of ordnance taken in a Dunkerke ship that came to relieve Pendennis, all the men taken prisoners, and all their ammunition and provisions in the ship, and fifty men put in her for the service of the Parliament. With the Generalls summons sent into Pendennis Castle, and the Governors answer. And the proceedings in blocking up of Michaells Mount, where Marques Hamilton is prisoner. Eighty come in to the Parliament from thence; with the last passages of Sir Thomas Fairfaxes victorious proceedings in Cornewell. This being a true copie and examined, is printed and published according to order of Parliament.</title>
+                  <author>T. M.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Matthew Walbanke at Grays-Inne Gate.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>March. 26. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed on page 7: T.M. From Truro the 19th. of March, 1645.</note>
+                  <note>Annotation on Thomason copy: on t.p.: Felford altered to Helford; caption title, page 3: Felford altered to Helford; page 7: after 1645 in line above Finis: "-46?".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term>Pendennis Castle (Falmouth, England) --  Early works to 1800.</term>
+               <term>Helford (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159617:1" rendition="simple:additions"/>
+            <p>SIR THOMAS FAIRFAXES TAKING OF Dennis Caſtle, AND Felford Haven; And twenty ſix peeces of Ord<g ref="char:EOLhyphen"/>nance taken in a Dunkerke ſhip that came to relieve <hi>Pendennis,</hi> all the men taken priſoners, and all their Ammunition and proviſions in the ſhip, and fifty men put in her for the ſervice of the <hi>PARLIAMENT.</hi>
+            </p>
+            <p>With the Generalls ſummons ſent in<g ref="char:EOLhyphen"/>to <hi>Pendennis</hi> Caſtle, and the Governors An<g ref="char:EOLhyphen"/>ſwer. And the proceedings in blocking up of <hi>Micha<g ref="char:EOLhyphen"/>alls Mount,</hi> where Marques <hi>Hamilton</hi> is priſoner. Eighty come in to the Parliament from thence; With the laſt paſſages of Sir <hi>Thomas Fairfaxes</hi> victorious proceedings in <hi>CORNEWELL.</hi>
+            </p>
+            <p>This being a true Copie and examined, is Printed and publiſhed according to Order of PARLIAMENT.</p>
+            <p>Printed for <hi>Matthew Walbanke</hi> at <hi>Grayſ-Inne Gate.</hi> March. 26. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159617:2"/>
+            <pb facs="tcp:159617:2" rendition="simple:additions"/>
+            <head>SIR Thomas Fairfaxes taking of Dennis Ca<g ref="char:EOLhyphen"/>ſtle &amp; <hi>Felford</hi> Haven, &amp;c.</head>
+            <opener>
+               <salute>Moſt Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE French and Walloons who dis<g ref="char:EOLhyphen"/>banded on the Lords day laſt were to ſtay at the next port Towne un<g ref="char:EOLhyphen"/>till Shipps might bee procured for their tranſportation, all the reſt of the <hi>Engliſh,</hi> both Commanders and Souldiers had Paſſes, either to goe out of the Land, or repaire unto their owne Countreyes, and places of dwelling: the reſt disbanded day by day, and marched out of this coun<g ref="char:EOLhyphen"/>trey Eaſtward, and the Gentlemen of the Countrey un<g ref="char:EOLhyphen"/>to their owne houſes; This day the two laſt Brigades did lay downe their armes and march away. There were nine Brigades of them, and it is verily beleeved that they were about five thouſand horſe and foote. The Fort on the Eaſt ſide of the Harbour of <hi>Faymouth,</hi> and right over againſt <hi>Pendennis</hi> Caſtle is yeelded up by <hi>Bow<g ref="char:EOLhyphen"/>than</hi>
+               <pb n="4" facs="tcp:159617:3"/>(that was the Lieutenant thereof) unto the General five dayes ſince, who hath placed a very ſtrong Garriſon in it, it lyeth neare the mouth of the Harbour, and much lower then <hi>Pendennis</hi> Caſtle, and is more fit ſeated for the commanding of that Harbour. Yeſterday laſt being the 18th of this moneth, <hi>Dennis</hi> Caſtle, being a Fort made by Sir <hi>Richard Vivian</hi> at the charge of the Country, at the mouth of <hi>Felford</hi> Haven, being ſcituated on a <hi>Pena Inſula,</hi> much after the manner of <hi>Pendennis</hi> Caſtle, was yeelded up into the hands of the Generall by thoſe that had the command thereof. This Caſtle and Harbour li<g ref="char:EOLhyphen"/>eth a league to the Weſt of <hi>Pendennis,</hi> full in ſight of the Caſtle. The Harbour is a very ſafe and deepe Harbour, the greateſt ſhip in the Kingdome may ride a floate in it at low water, it will prove to be of very great uſe to us, for the taking in of <hi>Pendennis,</hi> by meanes that our ſhips lying there, may prevent (by the helpe of St. <hi>Mawes</hi>) the conjunction of any ſhips for the reliefe thereof: I went with the Generall and the Committee to receive the poſſeſſion of this Fort, and in the way the Generall went unto <hi>Arwinkle,</hi> Sir <hi>Peter Killegrew's</hi> houſe, where and in the Village of <hi>Pennicomquicke</hi> we had quarted two Regiments for the blocking up of <hi>Pendennis</hi> Caſtle on the land ſide. The day before the Generall ſent thither thoſe two Regiments, the enemie in the Caſtle ſet on fire Sir <hi>Peters</hi> houſe, and burned a great part there of downe to the ground, and would have done the like with <hi>Pen<g ref="char:EOLhyphen"/>nicomequicke,</hi> had not our mens unexpected comming prevented them in the Caſtle, and the man of War that hath 40. pieces of Ordnance in him, which lyeth a ground on the North ſide of the Fort let us paſſe very quietly through <hi>Pennicomquicke,</hi> and to <hi>Arwinkle,</hi> which lyes within halfe musket ſhot of the enemies Out-workes, but is blinded by the houſes and trees, ſo that they cannot ſee thoſe that are on the other fide of the houſe: but when we came off, and were paſt <hi>Pennicomequicke,</hi> and advan<g ref="char:EOLhyphen"/>ced
+<pb n="5" facs="tcp:159617:3"/>into an open field in our way backe to <hi>Perin,</hi> the ſhip that lay on the North ſide of the Caſtle let flye at us, but their ſhot (by Gods mercy) did us no harme, though the bullets flew very neer us, and one grazed not farre from mee, which wee found, and was a bullet of ſome 12 <abbr>l.</abbr> weight. As ſoon as the Generall came to <hi>Perin</hi> he cauſed a ſummons to be drawn up, and ſent it by his Drum-Major unto the Governour of the Caſtle, requiring him to yeeld it unto him for the uſe of the Parliament, u<g ref="char:EOLhyphen"/>ſing divers reaſons to perſwade him thereunto; But <hi>Arundell</hi> of <hi>Treverſe</hi> who is the Governour thereof, gave him a peremptory denyall, ſaying, that hee was 70. yeares old, and could not have many dayes to live, and therefore would not in his old years blemiſh his ho<g ref="char:EOLhyphen"/>nour in ſurrendring thereof, and would be rather found buried in the ruines thereof, then commit ſo vilde a Treaſon, (or words to that effect.) Queſtionleſſe the place is very ſtrong, as well by its naturall ſcituation, (it being almoſt an Iſland, and ſeated on a riſing hill) as by Art and great induſtry; and it is victualled (as they ſay) for nine or ten moneths, and they have in it a<g ref="char:EOLhyphen"/>bout one thouſand, or twelve hundred men, all deſpe<g ref="char:EOLhyphen"/>rate perſons, and good ſouldiers; and they have pow<g ref="char:EOLhyphen"/>der and ſhot great ſtore, and at leaſt eighty great Guns mounted, beſides forty in the ſhip which lies on the North ſide of the Caſtle. Therefore the Generall reſolves to block it up very cloſe both by Land and Sea: which he may the better doe, in regard that we have <hi>Denis</hi> Ca<g ref="char:EOLhyphen"/>ſtle, and the Haven of <hi>Helford</hi> on the weſt, and St. <hi>Maws</hi> on the eaſt; and for that, if we draw a Line thwart the narrow necke of Land, a little on this fide <hi>Arwinkle</hi> houſe, which is not above Muſquet ſhot over: <hi>Pendenis</hi> Caſtle will remaine unto them but as a cloſe and ſure priſon, and ſo in the end the belly will conquer them, without ſtriking of a ſtroake. Here are in this Fort ma<g ref="char:EOLhyphen"/>ny very conſiderable men, and the moſt deſparate Per<g ref="char:EOLhyphen"/>ſons
+<pb n="6" facs="tcp:159617:4"/>and the violenteſt enemies that the Parliament hath in this kingdome; and the Country reports, they have a very great maſſe of wealth in this Caſtle, for this was ever a place the enemy did much confide in; and therefore without queſtion it cannot chuſe but bee very rich: I verily beleeve that if the Workes were once per<g ref="char:EOLhyphen"/>fected for blocking of them up, two thouſand good foote would keepe them in, that they ſhould not be able to break forth to annoy the Countrey. <hi>Penicomquicke,</hi> and <hi>Peryne</hi> will be able to entertaine that number very well, ſo that the Souldiers be well payed, that ſo they may be able to pay for their Billets, The countrey is extreamly impoveriſhed, and I feare that Bread and all other proviſions will grow very ſcarce, and ſo conſe<g ref="char:EOLhyphen"/>quently very deare; for there is already no Hay or Oats to be gotten here, and fleſh growes very deare. The ene<g ref="char:EOLhyphen"/>my hath fortified the Mount where the Marqueſſe of <hi>Hamilton</hi> is kept. Eighty Souldiers that ſhould have gone into the Mount, came this day with their Arms, and tendred their ſervice to the Generall at <hi>Truro.</hi> The Ge<g ref="char:EOLhyphen"/>nerall intends to ſend a Regiment to <hi>Marketſene</hi> to block up the Mount, and to keep them from Ranging abroad; They ſay the Mount is a place neither ſtrong, nor well victualled, and therfore cannot hold out long. This laſt night one of the ſhips which came down with Sir <hi>George Askew,</hi> fell into the Harbour of <hi>Falmouth,</hi> on St. <hi>Mawes</hi> fide, and notwithſtanding both the Block-houſe, and the Bulwarke at the poynt of <hi>Pendenis</hi> ſhot very furiouſ<g ref="char:EOLhyphen"/>ly at her, yet ſhe came very ſafely into the Harbour, and ſo paſſed upon the Tide, to a place in the Harbour called <hi>Mawpaſſe</hi> paſſage, where a Frigot of Dunkerks had runne her ſelfe a ground and came in on purpoſe to aſſiſt <hi>Pen<g ref="char:EOLhyphen"/>dennis</hi> Caſtle, ſhe had in her 26. pieces of Ordnance, and though our men entered her, yet ſhe ſtood very ſtoutly to her defence, yet at laſt we maſterd her, and tooke all the men out of her, and put in her about fifty men of
+<pb n="7" facs="tcp:159617:4" rendition="simple:additions"/>our owne, and ſo intend to make her a Man of Warre to ſerve the State, and ſhe may prove very uſefull, for ſhe is an exceeding good ſailer, and will bee good againſt our enemies Navigable ſhips, that ſo we may take them.</p>
+            <p>Sir, moſt of the great Malignants of the Countrey (unleſſe thoſe that are in <hi>Pendennis</hi> and the Mount) are come in; If you alone do not take ſome ſpeedy courſe to remove them out of the County, untill the County bee fully ſetled, I feare it will not bee long before we ſhall have new troubles here. Thus with the tenderneſſe of my beſt love and ſervice I reſt,</p>
+            <closer>
+               <signed>Yours in what ever I may ſerve you <hi>T. M.</hi>
+               </signed>
+               <dateline>From Truro <date>the 19th. of March, 1645.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
